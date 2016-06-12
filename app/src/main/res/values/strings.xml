@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_email">Enter Email Addres</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_mobile">Enter Mobile Number</string>
+    <string name="contacts_title">Enter Contact Details</string>
+    <string name="positive">Save</string>
+    <string name="negative">Cancel</string>
+</resources>
